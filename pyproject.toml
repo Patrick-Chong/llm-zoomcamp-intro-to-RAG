@@ -1,0 +1,22 @@
+[project]
+name = "llm-zoomcamp-intro-to-rag"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "patrick_chong@hotmail.co.uk", email = "patrickchong@bmlltech.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "minsearch>=0.2.0",
+    "openai>=3.13.0",
+    "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
+]
+
+[project.scripts]
+llm-zoomcamp-intro-to-rag = "llm_zoomcamp_intro_to_rag:main"
+
+[build-system]
+requires = ["uv_build>=0.12.13,<0.13.0"]
+build-backend = "uv_build"
