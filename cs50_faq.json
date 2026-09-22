@@ -2,109 +2,145 @@
   {
     "id": "cs50_faq_001",
     "category": "Certificates",
-    "question": "What is the minimum score required to receive a verified certificate from edX?",
+    "question": "What is the minimum score required to be eligible for a verified certificate from edX?",
     "answer": "You must receive a satisfactory score (at least 70%) on each problem you submit as part of one of the course’s ten problem sets as well as on the course’s final project."
   },
   {
     "id": "cs50_faq_002",
     "category": "Certificates",
     "question": "What happens if I score below 70% on a problem set or final project?",
-    "answer": "If you score below 70% on any problem set or the final project, you will not be eligible for a verified certificate."
+    "answer": "If you score below 70% on any problem set or the final project, you will not be eligible for a verified certificate from edX."
   },
   {
     "id": "cs50_faq_003",
     "category": "Resubmission",
-    "question": "Can I resubmit problem sets for feedback?",
-    "answer": "Yes, you are welcome to submit the course's ten problem sets and final project for automated feedback."
+    "question": "Are there any opportunities to resubmit work after initial submission?",
+    "answer": "You are welcome to submit the course’s ten problem sets and final project for automated feedback; however, resubmission mechanics are not explicitly detailed in the syllabus."
   },
   {
     "id": "cs50_faq_004",
-    "category": "Regret Clause",
-    "question": "What is the deadline for the Regret Clause?",
-    "answer": "The deadline to make any use of the Regret Clause is 72 hours after an assignment is graded."
-  },
-  {
-    "id": "cs50_faq_005",
-    "category": "Regret Clause",
-    "question": "What are the consequences of utilizing the Regret Clause?",
-    "answer": "Utilizing the Regret Clause will have specific consequences that can be found in the course's FAQs."
-  },
-  {
-    "id": "cs50_faq_006",
-    "category": "AI Policy",
-    "question": "Is the use of duck.cs50.ai allowed?",
-    "answer": "Yes, the use of duck.cs50.ai is allowed."
-  },
-  {
-    "id": "cs50_faq_007",
-    "category": "AI Policy",
-    "question": "Is the use of third-party commercial AI tools like ChatGPT, Copilot, or Claude allowed?",
-    "answer": "No, the use of any third-party commercial AI tools such as ChatGPT, Copilot, or Claude is banned."
-  },
-  {
-    "id": "cs50_faq_008",
-    "category": "Collaboration Policy",
-    "question": "What distinguishes unreasonable collaboration from reasonable collaboration?",
-    "answer": "Unreasonable collaboration includes any practices that violate academic honesty, whereas reasonable collaboration allows for discussing concepts and seeking help while attributing individual contributions."
-  },
-  {
-    "id": "cs50_faq_009",
-    "category": "Final Project",
-    "question": "What are the implementation rules for the final project?",
-    "answer": "You may implement your project in any language(s) and utilize infrastructure other than the CS50 Codespace, with the requirement that your project draws upon the course’s lessons."
-  },
-  {
-    "id": "cs50_faq_010",
-    "category": "Final Project",
-    "question": "Are there rules for collaboration on the final project?",
-    "answer": "Collaboration on the final project is allowed, with a maximum of three students per group. Each member must contribute equally to the design and implementation."
-  },
-  {
-    "id": "cs50_faq_011",
-    "category": "Final Project",
-    "question": "What is the expected scope of the final project for group collaborations?",
-    "answer": "The scope of a two-person group's project should be twice that of a typical one-person project, and a three-person group should aim for three times the scope of a one-person project."
-  },
-  {
-    "id": "cs50_faq_012",
-    "category": "Final Project",
-    "question": "What is the expected effort for a one-person final project?",
-    "answer": "A one-person project should entail more time and effort than is required by each of the course's problem sets."
-  },
-  {
-    "id": "cs50_faq_013",
-    "category": "Course Completion",
+    "category": "Deadlines",
     "question": "What is the deadline to complete the course?",
     "answer": "The deadline to complete the course is June 30, 2027."
   },
   {
+    "id": "cs50_faq_005",
+    "category": "Deadlines",
+    "question": "What happens if I miss the deadline to complete the course?",
+    "answer": "Please consult the FAQs for information about what happens if you miss the deadline."
+  },
+  {
+    "id": "cs50_faq_006",
+    "category": "Final Project",
+    "question": "What are the requirements for the final project in CS50?",
+    "answer": "Your final project must draw upon the course’s lessons and the nature of your project is entirely up to you."
+  },
+  {
+    "id": "cs50_faq_007",
+    "category": "Final Project",
+    "question": "Can I collaborate with others on the final project?",
+    "answer": "Yes, you are allowed to collaborate with one or two classmates on the final project."
+  },
+  {
+    "id": "cs50_faq_008",
+    "category": "Final Project",
+    "question": "What is expected of each group member in a collaborative final project?",
+    "answer": "It is expected that every student in any such group contribute equally to the design and implementation of that group’s project."
+  },
+  {
+    "id": "cs50_faq_009",
+    "category": "Final Project",
+    "question": "What is the scope requirement for a multi-person final project?",
+    "answer": "The scope of a two-person project should be twice that of a typical one-person project, and a three-person project should be thrice that of a typical one-person project."
+  },
+  {
+    "id": "cs50_faq_010",
+    "category": "Final Project",
+    "question": "What is the minimal effort expected for a one-person final project?",
+    "answer": "A one-person project should entail more time and effort than is required by each of the course’s problem sets."
+  },
+  {
+    "id": "cs50_faq_011",
+    "category": "Collaboration Policy",
+    "question": "What type of collaboration is allowed in this course?",
+    "answer": "You may collaborate with classmates for the final project but must respect the course’s academic honesty policy."
+  },
+  {
+    "id": "cs50_faq_012",
+    "category": "AI Policy",
+    "question": "Is the use of third-party commercial AI tools allowed in the course?",
+    "answer": "The use of third-party commercial AI tools such as ChatGPT, Copilot, and Claude is banned."
+  },
+  {
+    "id": "cs50_faq_013",
+    "category": "AI Policy",
+    "question": "Can I use duck.cs50.ai in this course?",
+    "answer": "Yes, the use of duck.cs50.ai is allowed."
+  },
+  {
     "id": "cs50_faq_014",
-    "category": "Problem Sets",
-    "question": "How many problem sets do I need to submit?",
-    "answer": "You are expected to submit ten problem sets."
+    "category": "Academic Honesty",
+    "question": "Where can I find the guidelines for academic honesty?",
+    "answer": "Please see the Academic Honesty section for guidelines."
   },
   {
     "id": "cs50_faq_015",
-    "category": "Academic Honesty",
-    "question": "Where can I find guidelines on academic honesty?",
-    "answer": "Guidelines on academic honesty can be found under the Academic Honesty section of the syllabus."
-  },
-  {
-    "id": "cs50_faq_016",
-    "category": "Expectations",
-    "question": "What is expected regarding the final project?",
-    "answer": "The final project is your opportunity to develop your own piece of software that solves an actual problem, impacts your community, or changes the world."
-  },
-  {
-    "id": "cs50_faq_017",
-    "category": "Course Resources",
-    "question": "Are there required textbooks for the course?",
+    "category": "Course Material",
+    "question": "Are any books required for this course?",
     "answer": "No books are required or recommended for this course."
   },
   {
-    "id": "cs50_faq_018",
+    "id": "cs50_faq_016",
     "category": "Problem Sets",
-    "question": "Is there a specific pace for submitting problem sets?",
-    "answer": "You are welcome to work on and submit problem sets at your own pace."
+    "question": "How many problem sets must I submit for this course?",
+    "answer": "You are expected to submit ten problem sets."
+  },
+  {
+    "id": "cs50_faq_017",
+    "category": "Walkthroughs",
+    "question": "What are walkthroughs in the context of problem sets?",
+    "answer": "Walkthroughs are integrated into problem sets and are videos that offer direction on where to begin and how to approach problems."
+  },
+  {
+    "id": "cs50_faq_018",
+    "category": "Evaluation",
+    "question": "How are problems evaluated in this course?",
+    "answer": "Problems are evaluated along axes of correctness (determined by check50) and style (determined by style50), with scores ordinarily computed as 3 × correctness + 1 × style."
+  },
+  {
+    "id": "cs50_faq_019",
+    "category": "Languages Used",
+    "question": "What programming languages are used in this course?",
+    "answer": "Languages include C, Python, and SQL plus HTML, CSS, and JavaScript."
+  },
+  {
+    "id": "cs50_faq_020",
+    "category": "Project Requirements",
+    "question": "What is encouraged for the implementation of the final project?",
+    "answer": "You may implement your project in any language(s) and are welcome to utilize infrastructure other than the CS50 Codespace."
+  },
+  {
+    "id": "cs50_faq_021",
+    "category": "Expectations",
+    "question": "What is expected of participants in CS50?",
+    "answer": "You are expected to submit ten problem sets and submit a final project."
+  },
+  {
+    "id": "cs50_faq_022",
+    "category": "Course Goals",
+    "question": "What are the overarching goals of the CS50 course?",
+    "answer": "The goals are to inspire students to explore unfamiliar waters without fear of failure, create an intensive shared experience accessible to all students, and build community among students."
+  },
+  {
+    "id": "cs50_faq_023",
+    "category": "Lecture Format",
+    "question": "What do the course lectures introduce?",
+    "answer": "The course’s lectures introduce each week’s concepts."
+  },
+  {
+    "id": "cs50_faq_024",
+    "category": "Student Demographics",
+    "question": "What is noted about previous students' experience in CS50?",
+    "answer": "Two thirds of CS50 students have never taken CS before."
   }
 ]
